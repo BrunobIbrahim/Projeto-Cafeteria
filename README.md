@@ -24,12 +24,9 @@ A proposta foi criar uma página visualmente agradável para uma cafeteria, trab
 ## 💻 Funcionalidades
 
 - Página inicial com apresentação da cafeteria
-- Seção de produtos
-- Apresentação do cardápio
 - Informações sobre a cafeteria
 - Seção de contato
 - Navegação entre as seções da página
-- Layout responsivo
 
 ---
 
@@ -49,7 +46,8 @@ Durante o desenvolvimento deste projeto, pude praticar:
 
 ## 🌐 Acesse o projeto
 
-[**Acesse o site**](https://projeto-cafeteria-vert.vercel.app)
+<a href="https://projeto-cafeteria-vert.vercel.app" target="_blank">Acesse o site</a>
+
 
 ---
 
