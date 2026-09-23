@@ -43,7 +43,6 @@ Durante o desenvolvimento deste projeto, pude praticar:
 - Utilização de **Flexbox**
 - Organização e alinhamento de elementos
 - Trabalho com imagens e elementos visuais
-- Criação de layouts responsivos
 - Organização de arquivos e pastas de um projeto web
 
 ---
