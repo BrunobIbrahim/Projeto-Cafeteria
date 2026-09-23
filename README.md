@@ -49,13 +49,13 @@ Durante o desenvolvimento deste projeto, pude praticar:
 
 ## 🌐 Acesse o projeto
 
-[**Acesse o site**](COLOQUE-AQUI-O-LINK-DO-VERCEL)
+[**Acesse o site**](https://projeto-cafeteria-vert.vercel.app)
 
 ---
 
 ## 📷 Preview
 
-[**Preview do projeto**](./assets/preview-site.jpg)
+![Preview do projeto](./assets/preview-site.jpg)
 
 ---
 
